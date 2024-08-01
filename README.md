@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0136-single-number](https://github.com/Nivashini199/LeetCode/tree/master/0136-single-number) |
 | [2727-number-of-senior-citizens](https://github.com/Nivashini199/LeetCode/tree/master/2727-number-of-senior-citizens) |
 ## String
 |  |
@@ -47,4 +48,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Nivashini199/LeetCode/tree/master/0100-same-tree) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/Nivashini199/LeetCode/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
