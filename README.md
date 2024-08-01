@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0058-length-of-last-word](https://github.com/Nivashini199/LeetCode/tree/master/0058-length-of-last-word) |
 | [2727-number-of-senior-citizens](https://github.com/Nivashini199/LeetCode/tree/master/2727-number-of-senior-citizens) |
 ## Math
 |  |
