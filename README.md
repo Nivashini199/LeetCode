@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/Nivashini199/LeetCode/tree/master/0058-length-of-last-word) |
+| [0812-rotate-string](https://github.com/Nivashini199/LeetCode/tree/master/0812-rotate-string) |
 | [2727-number-of-senior-citizens](https://github.com/Nivashini199/LeetCode/tree/master/2727-number-of-senior-citizens) |
 ## Math
 |  |
@@ -52,4 +53,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Nivashini199/LeetCode/tree/master/0136-single-number) |
+## String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/Nivashini199/LeetCode/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
