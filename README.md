@@ -12,5 +12,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/Nivashini199/LeetCode/tree/master/0202-happy-number) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/Nivashini199/LeetCode/tree/master/1630-count-odd-numbers-in-an-interval-range) |
+## Hash Table
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/Nivashini199/LeetCode/tree/master/0202-happy-number) |
+## Two Pointers
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/Nivashini199/LeetCode/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
